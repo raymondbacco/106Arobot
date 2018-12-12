@@ -1,0 +1,8 @@
+prefix=/home/raymond/catkin_ws/install
+
+Name: image_view
+Description: Description of image_view
+Version: 1.12.23
+Cflags: -I/home/raymond/catkin_ws/install/include
+Libs: -L/home/raymond/catkin_ws/install/lib 
+Requires: dynamic_reconfigure

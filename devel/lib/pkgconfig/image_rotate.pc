@@ -1,0 +1,8 @@
+prefix=/home/raymond/catkin_ws/devel
+
+Name: image_rotate
+Description: Description of image_rotate
+Version: 1.12.23
+Cflags: -I/home/raymond/catkin_ws/devel/include
+Libs: -L/home/raymond/catkin_ws/devel/lib 
+Requires: 
