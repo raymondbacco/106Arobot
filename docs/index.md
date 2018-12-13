@@ -1,5 +1,6 @@
 # Introduction
 
+![Rover](/assets/images/rover1.png)
 
 ## Abstract
 
