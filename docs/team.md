@@ -13,4 +13,4 @@ Raymond designed and built the robot and 3D printed custom parts that he designe
 ## Ethan Sanderson
 
 Ethan is a current fourth year EECS undergrad. He has previously taken the CS 61 series and has a background in CS. 
-Ethan edited Raymond's motor controller and was able to make the car drive smoothly and wrote the program for tracking the AR-tags. He laso helped with calibrating the camera and downloading ROS packages.
+Ethan edited Raymond's motor controller and was able to make the car drive smoothly and wrote the program for tracking the AR-tags. He also helped with calibrating the camera and downloading ROS packages.
