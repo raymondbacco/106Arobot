@@ -195,7 +195,7 @@ Some software resources that we used:
 ![Front View](/assets/robot_images/front_view.jpg)
 ![Kinect Mount](/assets/robot_images/kinect_mount.jpg)
 ![Left Side View](/assets/robot_images/left_side_view1.jpg)
-![Photo Interrupter Mount](/assets/robot_images/photo_interupter_mount.jpg)
+![Photo Interupter Mount](/assets/robot_images/photo_interuptor_mount.jpg)
 ![Right Side View](/assets/robot_images/right_side_view.jpg)
 ![Screen Mount](/assets/robot_images/screen_mount.jpg)
 
