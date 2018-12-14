@@ -169,7 +169,13 @@ if __name__ == '__main__':
 
 ## Our Code
 
-The rest of our code can be found on our [GitHub](https://github.com/raymondbacco/106Arobot). Some software resources that we used are ROS Kinetic, Freenect_Stack (an open source kinect package), and Ar_Track_Alvar. 
+The rest of our code can be found on our [GitHub](https://github.com/raymondbacco/106Arobot). 
+Some software resources that we used:  
+* ROS Kinetic
+* [Freenect_Stack](https://github.com/ros-drivers/freenect_stack.git)
+* [Libfreenect](https://github.com/OpenKinect/libfreenect.git)
+* [AR_Track_Alvar](https://github.com/ros-perception/ar_track_alvar.git)
+* [RGBD__Launch](https://github.com/ros-drivers/rgbd_launch.git)
 
 ## Hardware Data Sheets
 
