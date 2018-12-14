@@ -174,6 +174,7 @@ if __name__ == '__main__':
 ## Our Code
 
 The rest of our code can be found on our [GitHub](https://github.com/raymondbacco/106Arobot). 
+
 Some software resources that we used:  
 * ROS Kinetic
 * [Freenect_Stack](https://github.com/ros-drivers/freenect_stack.git)
