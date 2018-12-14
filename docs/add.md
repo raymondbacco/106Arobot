@@ -182,14 +182,14 @@ The rest of our code can be found on our [GitHub](https://github.com/raymondbacc
 * SunFounder Photo-interrupter Sensor Module : https://www.sunfounder.com/learn/lesson-12-photo-interrupter-sensor-kit-v2-0-for-b-plus.html
 
 ## Pictures
-![Arm Mount](robot images/arm_mount.jpg)
-![Back Right View](robot images/back_right_view.jpg)
-![Bottom Battery Holder](robot images/bottom_battery_holder.jpg)
-![Front Battery Holder](robot images/front_battery_holder.jpg)
-![Front View](robot images/front_view.jpg)
-![Kinect Mount](robot images/kinect_mount.jpg)
-![Left Side View](robot images/left_side_view1.jpg)
-![Photo Interrupter Mount](robot images/photo_interrupter_mount.jpg)
-![Right Side View](robot images/right_side_view.jpg)
-![Screen Mount](robot images/screen_mount.jpg)
+![Arm Mount](/robot\ images/arm_mount.jpg)
+![Back Right View](/robot\ images/back_right_view.jpg)
+![Bottom Battery Holder](/robot\ images/bottom_battery_holder.jpg)
+![Front Battery Holder](/robot\ images/front_battery_holder.jpg)
+![Front View](/robot\ images/front_view.jpg)
+![Kinect Mount](/robot\ images/kinect_mount.jpg)
+![Left Side View](/robot\ images/left_side_view1.jpg)
+![Photo Interrupter Mount](/robot\ images/photo_interrupter_mount.jpg)
+![Right Side View](/robot\ images/right_side_view.jpg)
+![Screen Mount](/robot\ images/screen_mount.jpg)
 
