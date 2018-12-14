@@ -173,13 +173,13 @@ The rest of our code can be found on our [GitHub](https://github.com/raymondbacc
 
 ## Hardware Data Sheets
 
-* Raspberry pi 3 B+ : https://static.raspberrypi.org/files/product-briefs/Raspberry-Pi-Model-Bplus-Product-Brief.pdf
-* 7 “ Raspberry Pi Touchscreen : http://www.farnell.com/datasheets/1958036.pdf
-* Xbox 360 Kinect : https://zoomicon.wordpress.com/2015/07/28/kinect-for-xbox-360-and-kinect-for-windows-kfw-v1-specs/
-* PCA 9685 16 channel Servo Controller : https://cdn-shop.adafruit.com/datasheets/PCA9685.pdf
-* SB Components Motor Shield : https://sb-components.co.uk/motor-shield.html
-* Mg966r 4.8V-7.2V Servo Motor : https://www.electronicoscaldas.com/datasheet/MG996R_Tower-Pro.pdf
-* SunFounder Photo-interrupter Sensor Module : https://www.sunfounder.com/learn/lesson-12-photo-interrupter-sensor-kit-v2-0-for-b-plus.html
+* [Raspberry pi 3 B+](https://static.raspberrypi.org/files/product-briefs/Raspberry-Pi-Model-Bplus-Product-Brief.pdf)
+* [7 “ Raspberry Pi Touchscreen](http://www.farnell.com/datasheets/1958036.pdf)
+* [Xbox 360 Kinect](https://zoomicon.wordpress.com/2015/07/28/kinect-for-xbox-360-and-kinect-for-windows-kfw-v1-specs/)
+* [PCA 9685 16 channel Servo Controller](https://cdn-shop.adafruit.com/datasheets/PCA9685.pdf)
+* [SB Components Motor Shield](https://sb-components.co.uk/motor-shield.html)
+* [Mg966r 4.8V-7.2V Servo Motor](https://www.electronicoscaldas.com/datasheet/MG996R_Tower-Pro.pdf)
+* [SunFounder Photo-interrupter Sensor Module](https://www.sunfounder.com/learn/lesson-12-photo-interrupter-sensor-kit-v2-0-for-b-plus.html)
 
 ## Pictures
 ![Arm Mount](/robot%20images/arm_mount.jpg)
