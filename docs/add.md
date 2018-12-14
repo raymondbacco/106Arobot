@@ -185,11 +185,11 @@ The rest of our code can be found on our [GitHub](https://github.com/raymondbacc
 ![Arm Mount](/assets/robot_images/arm_mount.jpg)
 ![Back Right View](/assets/robot_images/back_right_view.jpg)
 ![Bottom Battery Holder](/assets/robot_images/bottom_battery_holder.jpg)
-![Front Battery Holder](//assets/robot_images/front_battery_holder.jpg)
+![Front Battery Holder](/assets/robot_images/front_battery_holder.jpg)
 ![Front View](/assets/robot_images/front_view.jpg)
 ![Kinect Mount](/assets/robot_images/kinect_mount.jpg)
 ![Left Side View](/assets/robot_images/left_side_view1.jpg)
-![Photo Interrupter Mount](/assets/robot_images/photo_interrupter_mount.jpg)
+![Photo Interrupter Mount](/assets/robot_images/photo_interupter_mount.jpg)
 ![Right Side View](/assets/robot_images/right_side_view.jpg)
 ![Screen Mount](/assets/robot_images/screen_mount.jpg)
 
