@@ -192,14 +192,9 @@ Some software resources that we used:
 * [SunFounder Photo-interrupter Sensor Module](https://www.sunfounder.com/learn/lesson-12-photo-interrupter-sensor-kit-v2-0-for-b-plus.html)
 
 ## Pictures
-![Arm Mount](/assets/robot_images/arm_mount.jpg){:height="50%" width="50%"}
-![Back Right View](/assets/robot_images/back_right_view.jpg){:height="50%" width="50%"}
-![Bottom Battery Holder](/assets/robot_images/bottom_battery_holder.jpg){:height="50%" width="50%"}
-![Front Battery Holder](/assets/robot_images/front_battery_holder.jpg){:height="50%" width="50%"}
-![Front View](/assets/robot_images/front_view.jpg){:height="50%" width="50%"}
-![Kinect Mount](/assets/robot_images/kinect_mount.jpg){:height="50%" width="50%"}
-![Left Side View](/assets/robot_images/left_side_view1.jpg){:height="50%" width="50%"}
-![Photo Interupter Mount](/assets/robot_images/photo_interuptor_mount.jpg){:height="50%" width="50%"}
-![Right Side View](/assets/robot_images/right_side_view.jpg){:height="50%" width="50%"}
-![Screen Mount](/assets/robot_images/screen_mount.jpg){:height="50%" width="50%"}
+![Arm Mount](/assets/robot_images/arm_mount.jpg){:height="50%" width="50%"} ![Back Right View](/assets/robot_images/back_right_view.jpg){:height="50%" width="50%"}
+![Bottom Battery Holder](/assets/robot_images/bottom_battery_holder.jpg){:height="50%" width="50%"} ![Front Battery Holder](/assets/robot_images/front_battery_holder.jpg){:height="50%" width="50%"}
+![Front View](/assets/robot_images/front_view.jpg){:height="50%" width="50%"} ![Kinect Mount](/assets/robot_images/kinect_mount.jpg){:height="50%" width="50%"}
+![Left Side View](/assets/robot_images/left_side_view1.jpg){:height="50%" width="50%"} ![Photo Interupter Mount](/assets/robot_images/photo_interuptor_mount.jpg){:height="50%" width="50%"}
+![Right Side View](/assets/robot_images/right_side_view.jpg){:height="50%" width="50%"} ![Screen Mount](/assets/robot_images/screen_mount.jpg){:height="50%" width="50%"}
 
