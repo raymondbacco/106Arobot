@@ -45,10 +45,10 @@ Website: https://www.sunfounder.com/learn/lesson-12-photo-interrupter-sensor-kit
 
 ### Custom Made Parts
 
-*Specially measured and 3d printed mount for the photo Interrupters.
-*Specially designed mounts for the Raspberry Pi touchscreen.
-*Specially designed mount and offset for the Xbox 360 Kinect.
-*Specially designed front battery holder designed to also mount a ultrasonic sensor if desired.
-*Specially designed battery holders on the bottom of the robot.
-*3d Printed arm mount designed to add a fifth servo for increased mobility.
+* Specially measured and 3d printed mount for the photo Interrupters.
+* Specially designed mounts for the Raspberry Pi touchscreen.
+* Specially designed mount and offset for the Xbox 360 Kinect.
+* Specially designed front battery holder designed to also mount a ultrasonic sensor if desired.
+* Specially designed battery holders on the bottom of the robot.
+* 3d Printed arm mount designed to add a fifth servo for increased mobility.
 
