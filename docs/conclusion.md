@@ -1,3 +1,7 @@
+---
+order: 40
+---
+
 # Conclusion
 
 Our project did fulfill most of our goals and did hit our minimum success requirement. The robot's motors were controlled so that it could precisely and accurately navigate itself to a specific location without wavering off course and the camera was able to find and track AR-tags consistently. Unfortunately we did not have time to implement the inverse kinematics code for the robot's arm as we intended so the arm is hardcoded to extend to the same spot in front of the robot every time. Because of this, we instead programmed the robot to stop a certain distance away from the AR-tag and position itself so that the object would be in reach of its arm. 
