@@ -11,8 +11,7 @@ She designed and wrote a script to use the tf transforms from the camera and the
 
 ## Raymond Bacco
 
-Raymond is a current fourth year EECS undergrad. His background is in 3D printing and laser cutting and has experience in building robots for personal project. He has also taken the CS 61 series and EE16 series.
-Raymond designed and built the robot and 3D printed custom parts that he designed for our project. He also designed and programmed our first version of our motor controller and wrote the program that moves the robot's arm.  
+Raymond is a current fourth year EECS undergraduate transfer student. He has priviously take the cs 61 series and ee 16 series. He has also take a prototyping and fabrication class. His background is in EE and CS with knowledge in 3D printing and laser cutting and has prvious experience building robots for personal projects. Raymond designed and built the robot and 3D printed custom parts that he designed for our project. He sourced all the needed hardware and parts. He then made sure the raspberry pi had the right operating system and also began all the necessary software downloads such as ROS. He also designed and programmed our first version of our motor controller and wrote the program that moves the robot's arm.  
 
 ## Ethan Sanderson
 
