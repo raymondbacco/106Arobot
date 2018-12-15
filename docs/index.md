@@ -8,7 +8,7 @@ order: 0
 
 ## Abstract
 
-Our original end goal was to create a robot with an arm that can go and retrieve a specific object from among a selection of a few different objects. Each object is labeled with a different AR-tag and the user will be able to tell the robot which AR-tag's object to retrieve.
+Our original end goal was to create a robot with an arm that can locate and retrieve a specific object from among a selection of a few different objects. Each object is labeled with a different AR-tag and the user will be able to tell the robot which AR-tag's object to retrieve.
 
 ## Project Description
 
