@@ -6,8 +6,8 @@ order: 50
 
 ## Tiffany Cappellari
 
-Tiffany is a current third year EECS undergrad at UC Berkeley. She has previously taken the CS 61 series, the EE 16 series, and EE 120 and is currently working on the EE 16B course staff.
-She designed and wrote a script to use the tf transforms from the camera and then calculate how far the tag is from the robot and at what angle it is. The script then tells the robot how to move in order to go to the tag. She also helped with calibrating the camera and downloading ROS packages.
+Tiffany is a current third year EECS undergrad at UC Berkeley. She has previously taken the CS 61 series, the EE 16 series, and EE 120 and is currently working on the EE 16B course staff in their lab sections. She has a lot of experience in designing and implementing programs and projects from working at the XPrize Foundation and at BlackRock as a CS intern. 
+Tiffany helped troubleshoot issues that the group had with downloading some ROS packages and set up the packages and libraries needed for the Kinect camera and connected the camera to the Raspberry Pi so that the robot could see its surroundings and find AR-tags and then assisted in getting the robot to recognize AR-tags. She also designed and wrote the script that uses the tf transforms from the camera to then calculate how far the tag is from the robot and at what angle it is. The script then tells the robot how to move in order to go to the tag. 
 
 ## Raymond Bacco
 
