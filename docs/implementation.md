@@ -51,12 +51,12 @@ A photo-interrupter is a sensor that arranges light-emitting component and light
 
 ![Custom Made Parts](/assets/robot_images/3dprinted.jpg)
 
-* Specially measured and 3d printed mount for the photo Interrupters.
-* Specially designed mounts for the Raspberry Pi touchscreen.
-* Specially designed mount and offset for the Xbox 360 Kinect.
-* Specially designed front battery holder designed to also mount a ultrasonic sensor if desired.
-* Specially designed battery holders on the bottom of the robot.
-* 3d Printed arm mount designed to add a fifth servo for increased mobility.
+1. Specially measured and 3d printed mount for the photo Interrupters.
+1. Specially designed mounts for the Raspberry Pi touchscreen.
+1. Specially designed mount and offset for the Xbox 360 Kinect.
+1. Specially designed front battery holder designed to also mount a ultrasonic sensor if desired.
+1. Specially designed battery holders on the bottom of the robot.
+1. 3d Printed arm mount designed to add a fifth servo for increased mobility.
 
 ## Software
 
