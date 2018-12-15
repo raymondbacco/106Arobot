@@ -4,7 +4,7 @@ order: 60
 
 # Additional Materials
 
-## Script to Use Motor Controller and AR Tracker
+## Script to Use Motor Controller and AR Tracker (RoverGoSmooth.py)
 
 ```python
 import tf2_ros
@@ -191,6 +191,10 @@ Some software resources that we used:
 * [SB Components Motor Shield](https://sb-components.co.uk/motor-shield.html)
 * [Mg966r 4.8V-7.2V Servo Motor](https://www.electronicoscaldas.com/datasheet/MG996R_Tower-Pro.pdf)
 * [SunFounder Photo-interrupter Sensor Module](https://www.sunfounder.com/learn/lesson-12-photo-interrupter-sensor-kit-v2-0-for-b-plus.html)
+
+## Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/toi6eP09p0c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Pictures
 ![Arm Mount](/assets/robot_images/arm_mount.jpg){:height="50%" width="50%"} ![Back Right View](/assets/robot_images/back_right_view.jpg){:height="50%" width="50%"}
