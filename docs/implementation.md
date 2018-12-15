@@ -49,6 +49,8 @@ A photo-interrupter is a sensor that arranges light-emitting component and light
 
 ### Custom Made Parts
 
+![Custom Made Parts](/assets/robot_images/3dprinted.jpg)
+
 * Specially measured and 3d printed mount for the photo Interrupters.
 * Specially designed mounts for the Raspberry Pi touchscreen.
 * Specially designed mount and offset for the Xbox 360 Kinect.
@@ -74,10 +76,10 @@ When the robot is actually moving, it needs to either drive straight or turn acc
 
 We also included some logic that prompts the robot to search for the target again if it loses sight of the tag while driving. The most recent previous known location of the tag is used to attempt to make an accurate choice about which direction to turn in this case. This python script could have been turned into an actual ROS node, but given how it functions we felt that this was unnecessary and overly complicated, so we decided to just keep it as a simple python script. The other script that we wrote, grabBlock.py applies inputs to the robot arm that causes it to reach out in front of the robot and attempt a grab. This code for this script is simply a sequence of hard coded inputs to the arm that causes the robot to attempt to grab whatever is currently in front of it.
 
-![TF Calculation Diagram](/assets/robot_images/rover_flow_chart.jpg)
+![Rover Flow Chart](/assets/robot_images/rover_flow_chart.jpg)
 
 ### System Overview
 
 Overall, our system works by continuously using the Kinect to collect image data. Ar_track_alvar then takes this data and computes which AR tags are visible. Tf then computes the transformations to each of the tags. While this is all happening, RoverGoSmooth.py can be ran with a particular AR tag selection. RoverGoSmooth.py then periodically looks up the transformation to the desired AR tag and makes a decision about which direction to move in. Once the robot is within the desired distance and angle tolerances relative to its desired AR tag, the attempts to grab the object at the AR tag via grabBlock.py
 
-![TF Calculation Diagram](/assets/robot_images/system_flow_chart.jpg)
+![System Flow Chart](/assets/robot_images/system_flow_chart.jpg)
